@@ -46,7 +46,7 @@ def banner():
 \033[1;97m= = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
 \033[1;39m┌──────────────────────── MCCARC ────────────────────────┐
 \033[1;32m║   \033[1;39mLOADER VERSION     : \033[1;32m 0.1                            \033[1;32m║
-\033[1;32m║   \033[1;39mFACEBOOK           :  trumflorentinovucony           \033[1;32m║
+\033[1;32m║   \033[1;39mFACEBOOK           :  fifai          \033[1;32m║
 \033[1;32m║   \033[1;39mDISCORD            :  discord.gg/pdrkdxZH            \033[1;32m║
 \033[1;32m║   \033[1;39mGITHUB             :  Coming Soon                    \033[1;32m║
 \033[1;32m║   \033[1;39mYOUTUBE            :  That Vape User ☊               \033[1;32m║
